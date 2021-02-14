@@ -1,6 +1,6 @@
 # App JokenPo
 
-<img src="./.github/mobile.png" alt="jokenpo">
+<img src="./.github/jokenpo.png" alt="jokenpo">
 
 ## Techs 
 Esse projeto foi desenvolvido com as seguintes tecnologias
